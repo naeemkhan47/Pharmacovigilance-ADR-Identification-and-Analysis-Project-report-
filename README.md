@@ -1,0 +1,2 @@
+# Pharmacovigilance-ADR-Identification-and-Analysis-Project-report-
+Pharmacovigilance ADR Identification and Analysis Project Overview This project demonstrates the preliminary analysis of suspected Adverse Drug Reactions (ADRs) Objectives Identify suspected drugs and reported adverse reactions Review reported seriousness and expectedness. Identify data-quality issues requiring further investigation.
